@@ -1,5 +1,6 @@
 ---
 title: Work Experience
+layout: home
 nav_order: 2
 ---
 
