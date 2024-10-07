@@ -23,7 +23,7 @@ In this project, I implemented a KMeans clustering algorithm from scratch and cr
 [Youtube Link](https://www.youtube.com/watch?v=5lW3I6A0vlc){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
-# Assignment 1
+# Assignment 3
 In this assignment, I applied Singular Value Decomposition to the MNIST data set, exploring how it can impact a logistic regression model. We reduce the dataset to various numbers of components, retaining the most important features from the data, and compare the model's accuracy and training time for different component levels. 
 
 [Github Link](https://github.com/SunehB/sunehb-assignment-3.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
