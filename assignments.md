@@ -31,7 +31,7 @@ In this assignment, I applied Singular Value Decomposition to the MNIST data set
 ---
 # Assignment 4
 In this project, I developed an interactive search engine using Latent Semantic Analysis (LSA) and built a web application with Flask. The application allows users to query a set of documents and retrieve the top five most relevant documents based on cosine similarity. It performs dimensionality reduction using Singular Value Decomposition (SVD) on a term-document matrix and visualizes the similarity scores of the top results in a bar chart. This project provides an accessible way to explore LSA, understand document similarity, and experiment with information retrieval techniques in natural language processing.
-[Github Link](https://github.com/SunehB/sunehb-assignment-3.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Github Link](https://github.com/SunehB/sunehb-assignment-4.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [![LSA](https://img.youtube.com/vi/IVPqHktCXm4/0.jpg)](https://youtu.be/IVPqHktCXm4)
 
 
