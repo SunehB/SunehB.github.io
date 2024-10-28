@@ -40,4 +40,8 @@ In this project, I developed an interactive search engine using Latent Semantic 
 In this assignment, I implemented a K-Nearest Neighbors (KNN) model from scratch to predict customer churn in a bank. I tuned k values and distance metrics, preprocessed the data, and evaluated the model using ROC AUC. After finding the best model, I predicted churn probabilities for the test set and submitted the results in a CSV file.
 [Github Link](https://github.com/SunehB/sunehb-assignment-5.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+---
+# Midterm
+[Github Link](https://github.com/SunehB/sunehb-506-midterm.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 
