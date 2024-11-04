@@ -44,4 +44,9 @@ In this assignment, I implemented a K-Nearest Neighbors (KNN) model from scratch
 # Midterm
 [Github Link](https://github.com/SunehB/sunehb-506-midterm.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-
+---
+# Assignment 6
+This project demonstrates how randomness affects linear regression results, even when there’s no actual relationship between
+X and Y. By adjusting parameters like sample size and noise level, users can observe how these factors impact the stability of the regression line and the variability of slopes and intercepts across multiple simulations. The project illustrates the importance of sample size and noise control in interpreting regression results accurately.
+[Github Link](https://github.com/SunehB/sunehb-assignment-6.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJ7v9RoFwd8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
