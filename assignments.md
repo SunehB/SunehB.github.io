@@ -50,3 +50,9 @@ This project demonstrates how randomness affects linear regression results, even
 X and Y. By adjusting parameters like sample size and noise level, users can observe how these factors impact the stability of the regression line and the variability of slopes and intercepts across multiple simulations. The project illustrates the importance of sample size and noise control in interpreting regression results accurately.
 [Github Link](https://github.com/SunehB/sunehb-assignment-6.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJ7v9RoFwd8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Assignment 7
+This project expands upon the last one with additional features of hypothesis testing, and confidence interval estimation. Users can input parameters to observe how sample size, noise, and other factors influence the slope and intercept, gaining insights into the variability and reliability of regression estimates.
+[Github Link](https://github.com/SunehB/sunehb-assignment-7.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OpW8r2YKuxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
