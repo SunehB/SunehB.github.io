@@ -56,3 +56,10 @@ X and Y. By adjusting parameters like sample size and noise level, users can obs
 This project expands upon the last one with additional features of hypothesis testing, and confidence interval estimation. Users can input parameters to observe how sample size, noise, and other factors influence the slope and intercept, gaining insights into the variability and reliability of regression estimates.
 [Github Link](https://github.com/SunehB/sunehb-assignment-7.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OpW8r2YKuxM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Assignment 8
+This project analyzes how shifting two data clusters affects the parameters and decision boundary of a logistic regression model. It demonstrates how changes in margin width, model coefficients, and logistic loss reflect the model's ability to adapt as the clusters become more separable. The findings highlight the dynamic behavior of logistic regression in response to varying class distributions.
+[Github Link](https://github.com/SunehB/sunehb-assignment-8.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ECJXmMt-5GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
