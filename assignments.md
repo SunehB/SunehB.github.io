@@ -63,3 +63,8 @@ This project analyzes how shifting two data clusters affects the parameters and 
 [Github Link](https://github.com/SunehB/sunehb-assignment-8.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ECJXmMt-5GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+# Assignment 10
+This project implements a content-based image retrieval system using PCA for dimensionality reduction and nearest neighbor search to identify and rank visually similar images from a dataset. It enables efficient similarity-based search by transforming high-dimensional image data into a compact feature space while retaining key visual patterns.
+[Github Link](https://github.com/SunehB/sunehb-assignment-10.git){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsyYPLjisKA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
